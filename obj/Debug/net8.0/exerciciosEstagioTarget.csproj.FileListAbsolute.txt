@@ -1,0 +1,14 @@
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\bin\Debug\net8.0\exerciciosEstagioTarget.exe
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\bin\Debug\net8.0\exerciciosEstagioTarget.deps.json
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\bin\Debug\net8.0\exerciciosEstagioTarget.runtimeconfig.json
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\bin\Debug\net8.0\exerciciosEstagioTarget.dll
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\bin\Debug\net8.0\exerciciosEstagioTarget.pdb
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\exerciciosEstagioTarget.GeneratedMSBuildEditorConfig.editorconfig
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\exerciciosEstagioTarget.AssemblyInfoInputs.cache
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\exerciciosEstagioTarget.AssemblyInfo.cs
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\exerciciosEstagioTarget.csproj.CoreCompileInputs.cache
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\exerciciosEstagioTarget.dll
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\refint\exerciciosEstagioTarget.dll
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\exerciciosEstagioTarget.pdb
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\exerciciosEstagioTarget.genruntimeconfig.cache
+E:\Danilo\estudos\Exercícios\exerciciosEstagioTarget\obj\Debug\net8.0\ref\exerciciosEstagioTarget.dll
